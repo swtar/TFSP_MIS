@@ -13,8 +13,11 @@ id sem consectetuer libero luctus adipiscing.
     for x in range(10):
          print(x)
 
+
 <http://www.baidu.com>
+
 <swtar@qq.com>
+
 ![李尚正][lsz]
 [lsz]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488802964961&di=6234a0bb94235964438a100fb9eed70b&imgtype=jpg&src=http%3A%2F%2Fimgsrc.baidu.com%2Fbaike%2Fpic%2Fitem%2F5366d0160924ab184eb0d2cd35fae6cd7a890ba1.jpg "我是牛人"
 [这是百度]: http://www.baidu.com "这是百度呀"
